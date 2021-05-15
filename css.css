@@ -1,0 +1,132 @@
+#water {
+    margin-right: 5%;
+    background-color: dimgray;
+    padding: 10px;
+    width: 40%;
+    float: right;
+    border-radius: 20px;
+}
+#wat {
+    margin-left: 5%;
+    margin-right: 10%;
+    margin-bottom: 30px;
+    background-color: dimgray;
+    padding: 10px;
+    width: 40%;
+    border-radius: 20px;
+}
+#wate {
+    margin-right: 5%;
+    margin-bottom: 30px;
+    background-color: #FF4500;
+    padding: 10px;
+    width: 40%;
+    float: right;
+    border-radius: 20px;
+}
+#wa {
+    margin-right: 10%;
+    margin-left: 5%;
+    background-color: dimgray;
+    padding: 10px;
+    width: 40%;
+    border-radius: 20px;
+}
+#one {
+    margin-bottom: 25px;
+    padding-top: 0.25px;
+    padding-bottom: 0.25px;
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    background-color: seagreen;
+    text-align: center;
+    border-radius: 20px;
+}
+#two {
+    margin-bottom: 25px;
+    padding-top: 0.25px;
+    padding-bottom: 0.25px;
+    font-family: 'Times New Roman';
+    font-size: 10px;
+    color: white;
+    font-weight: bold;
+    background-color: darkred;
+    text-align: center;
+    border-radius: 20px;
+}
+#three {
+    margin: auto;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: 'Times New Roman';
+    font-size: small;
+    color: black;
+    font-weight: bold;
+    background-color: white;
+    text-align: center;
+    border-radius: 20px;
+}
+#she {
+    margin-left: 5%;
+    margin-right: 10%;
+    margin-bottom: 30px;
+    margin-top: 40px;
+    background-color: aqua;
+    padding: 10px;
+    width: 85%;
+    height: 80px;
+    overflow: scroll;
+    border-radius: 20px;
+}
+button{
+    width: 80px;
+    height: 50px;
+    border-radius: 20px;
+    text-align:center;
+    background-color: deeppink;
+    font-family: Arial;
+    font-size: large;
+    box-shadow: 5px 5px 5px;
+}
+table {
+    margin: auto;
+    width: 300px;
+    height: 150px;
+    font-size: medium;
+    font-family: Calibri;
+    border: 3px dashed black;
+    text-align: center;
+
+}
+#tablle{
+    font-size: large;
+    font-style: italic;
+    border: 2px solid black;
+}
+#v, #c, #d {
+    border: 2px solid black;
+    font-size: medium;
+    height: 50px;
+}
+#love {
+    border: 3px solid blue;
+    height: 350px;
+    width: 400px;
+    float: left;
+    clear: both;
+    filter: invert(100%);
+}
+
+#winter {
+    border: 3px solid blue;
+    height: 350px;
+    width: 350px;
+    float: right;
+    clear: right;
+}
+td {
+    border: 2px dotted black;
+}
